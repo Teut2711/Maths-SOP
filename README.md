@@ -1,2 +1,2 @@
 # Maths-SOP
-Maths SOP Discontinuous Galerkin Method
+Maths SOP Galerkin Method
